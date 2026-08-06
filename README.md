@@ -23,7 +23,9 @@
 [Features](#-features) •
 [Architecture](#-architecture) •
 [Quick Start](#-quick-start) •
-[Roadmap](#-roadmap)
+[Roadmap](#-roadmap) •
+[한국어](README_kor.md) •
+[한국어 학습 가이드](guide/README.md)
 
 </div>
 
